@@ -1,0 +1,3 @@
+#filename: .gitignore
+pre_trained_bert/
+.idea/
